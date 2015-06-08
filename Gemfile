@@ -47,3 +47,5 @@ end
 gem 'carrierwave'
 gem 'rmagick'
 gem 'bootstrap-sass'  
+gem "figaro"
+gem "fog"
